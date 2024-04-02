@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06f2662e-555b-4036-897f-4152cd20bb2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/Ecommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/ApiResponset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/RoleDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/exception/ApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/exception/CustomValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/repository/OrderRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/repository/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/repository/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/CustomUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/JwtAuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/JwtAuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/JwtTokenHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/serviceImpl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/serviceImpl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecommerce/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2eXUzk0fEdKu1HT0GOHXraLxv2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ecommerce.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sonalsaurabh/Desktop/sonal/ecommerceProject"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06f2662e-555b-4036-897f-4152cd20bb2e" name="Changes" comment="" />
+      <created>1712050681197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712050681197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
